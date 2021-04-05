@@ -2,7 +2,7 @@
 
 **方法一**：[通过 macOS 恢复功能启动](https://support.apple.com/zh-cn/HT204904)
 
-**方法二**：[创建可引导的 macOS 安装器](https://support.apple.com/zh-cn/HT201372)
+**方法二**：[U盘安装器](https://support.apple.com/zh-cn/HT201372)
 
 **方法三**：[通过时间机器备份恢复 macOS](https://support.apple.com/zh-cn/HT203981)
 
